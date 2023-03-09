@@ -10,7 +10,7 @@ from sklearn.linear_model import LinearRegression
 
 
 # read data
-df = pd.read_csv("/root/SYS-304/wo_men.csv")
+df = pd.read_csv("C:/Users/ANA5937/SYS304/demo/wo_men.csv")
 print(df.head())
 
 # data processing
